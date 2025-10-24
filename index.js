@@ -31,9 +31,9 @@ app.use(
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
 
-const apikey = "ptlc_xnU77ND3STp01jeh49ikjVzxc4GiKvswjUp71uK5FP9";
-const capikey = "ptlc_xnU77ND3STp01jeh49ikjVzxc4GiKvswjUp71uK5FP9";
-const domain = "https://pornhub.com";
+const apikey = "ptla_q0xW1L60lcaMNytYVDs2BYF4HIYY6VQmbySAsupQYKL";
+const capikey = "ptlc_W6yuwvCGe2ractr84PRh1giPDInlyuxn0IG0bhUKC53";
+const domain = "https://kantinpub-panel.kandigpanel.my.id";
 const nestid = "5";
 const egg = "15";
 const loc = "1";
